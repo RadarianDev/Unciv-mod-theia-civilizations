@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Theia Civilizations
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This mod adds civilizations from my made up world called Theia.

@@ -31,7 +31,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The Sea Wolves",
 		"uniques": ["[20]% [Science] [in all coastal cities]",
-			"[20]% [Culture] [in all coastal cities]"",
+			"[20]% [Culture] [in all coastal cities]",
 			"[Land] units gain the [Amphibious] promotion",
 			"[Water] units gain the [Targeting I] promotion"
 		],
